@@ -1,9 +1,9 @@
 /**
- * A Highcharts plugin for exporting data from a rendered chart as CSV, XLS or HTML table
+ * A Highcharts plugin for exporting data from a rendered chart as CSV, XLS or table
  *
  * Author:   Torstein Honsi
  * Licence:  MIT
- * Version:  1.4.7
+ * Version:  1.4.8
  */
 /*global Highcharts, window, document, Blob */
 (function (factory) {
